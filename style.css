@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+    padding: 1.5rem;
+    color: white;
+    font-size: 2rem;
+    line-height: 2rem;
+    text-align: center;
+}
+
+button{
+    margin: 2rem;
+    padding: 1rem;
+    font-size: 2rem;
+    font-weight: bold 2rem;
+    border-radius: 1rem;
+    width: 15rem;
+    height: autp;
+    text-shadow: 0.1rem 0.1rem 0.2rem rgba(0, 0, 0, 0.5);
+    border: 0.3rem solid purple;
+}
+
+button:hover{
+    transform: scale(1.1, 1.1);
+}
+
+#blue{
+    border-color: blue;
+}
+
+#green{
+    border-color: green;
+}
+
+#orange{
+    border-color: orange;
+}
+
+#pink{
+    border-color: deeppink;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+    line-height: 2rem;
+    text-align: center;
+    margin: 2rem;
+}
+
+a:hover{
+    color: purple;
+    text-decoration: underline;
+}
+
+footer{
+    margin-top: 10rem;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    text-align: center;
+    color: white;
+    font-weight: bold 1.5rem;
+}
