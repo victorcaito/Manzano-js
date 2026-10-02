@@ -7,7 +7,20 @@ body{
     text-align: center;
 }
 
-button{
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.exercicio-lista{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+buttonbutton{
     margin: 2rem;
     padding: 1rem;
     font-size: 2rem;
