@@ -20,14 +20,14 @@ body{
     margin: 0;
 }
 
-buttonbutton{
+button{
     margin: 2rem;
     padding: 1rem;
     font-size: 2rem;
     font-weight: bold 2rem;
     border-radius: 1rem;
     width: 15rem;
-    height: autp;
+    height: auto;
     text-shadow: 0.1rem 0.1rem 0.2rem rgba(0, 0, 0, 0.5);
     border: 0.3rem solid purple;
 }
