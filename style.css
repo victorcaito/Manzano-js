@@ -28,7 +28,7 @@ button{
     border-radius: 1rem;
     width: 15rem;
     height: auto;
-    background-color: whitesmoke;
+    background-color: slategrey;
     text-shadow: 0.1rem 0.1rem 0.2rem rgba(0, 0, 0, 0.5);
     border: 0.3rem solid purple;
 }
